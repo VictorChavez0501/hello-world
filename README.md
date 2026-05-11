@@ -6,7 +6,7 @@ The software is a simple Python program that displays the message "Hello World" 
 
 The purpose of creating this software was to practice setting up a development environment, writing and running a basic program, and publishing code to a public GitHub repository.
 
-[Software Demo Video](PASTE YOUR YOUTUBE LINK HERE)
+[Software Demo Video] https://youtu.be/k2lrFJLvKIU
 
 # Development Environment
 
